@@ -1,2 +1,2 @@
 Django==2.1.2
-django-grappelli==2.11.1
+-e git+https://github.com/kudago/django-grappelli@fix-admin-inline-hidden-form#egg=django-grappelli
